@@ -1,0 +1,103 @@
+{
+    "students": [
+        {
+            "rollno": 1,
+            "name": "Ganesh Nikam",
+            "city": "Malegaon",
+            "marks": {
+                "java": 87,
+                "php": 76,
+                "python": 89,
+                "nodejs": 87
+            }
+        },
+        {
+            "rollno": 2,
+            "name": "Hitesh Ahire",
+            "city": "Dabli",
+            "marks": {
+                "java": 67,
+                "php": 68,
+                "python": 89,
+                "nodejs": 87
+            }
+        },
+        {
+            "rollno": 3,
+            "name": "Nikita Moeankar",
+            "city": "Pachore",
+            "marks": {
+                "java": 89,
+                "php": 78,
+                "python": 69,
+                "nodejs": 67
+            }
+        },
+        {
+            "rollno": 4,
+            "name": "Akshay Aher",
+            "city": "Ozar",
+            "marks": {
+                "java": 35,
+                "php": 35,
+                "python": 69,
+                "nodejs": 67
+            }
+        },
+        {
+            "rollno": 5,
+            "name": "Shubham Jagtap",
+            "city": "Dabli",
+            "marks": {
+                "java": 29,
+                "php": 78,
+                "python": 69,
+                "nodejs": 67
+            }
+        },
+        {
+            "rollno": 6,
+            "name": "Pradhunya Shewale",
+            "city": "Tehare",
+            "marks": {
+                "java": 59,
+                "php": 88,
+                "python": 49,
+                "nodejs": 67
+            }
+        },
+        {
+            "rollno": 7,
+            "name": "Vrushali Suryavanshi",
+            "city": "Mugse",
+            "marks": {
+                "java": 75,
+                "php": 48,
+                "python": 89,
+                "nodejs": 37
+            }
+        },
+        {
+            "rollno": 8,
+            "name": "Vishakha Ahire",
+            "city": "Malegaon",
+            "marks": {
+                "java": 78,
+                "php": 58,
+                "python": 49,
+                "nodejs": 67
+            }
+        },
+        {
+            "rollno": 9,
+            "name": "Shruti Amrutkr",
+            "city": "Dhule",
+            "marks": {
+                "java": 89,
+                "php": 88,
+                "python": 7,
+                "nodejs": 57
+            }
+        }
+    ]
+}
